@@ -1,0 +1,2 @@
+First line: practicing Terminal commands
+Second line: added with append operator
